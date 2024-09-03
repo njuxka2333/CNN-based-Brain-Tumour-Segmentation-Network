@@ -5,6 +5,7 @@ Imperial  College Data Science Summer School
 - Dropout after batch normalization
 - mixed losss function :Binary cross-entropy loss + soft IoU loss
 <img width="526" alt="image" src="https://github.com/user-attachments/assets/5aeae29b-fbad-4c35-8264-da9d3385484d">
+
 ## Examples
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/ffbf7443-8c74-464a-b02f-117ba927976a">
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/2047a313-ea5d-4410-b159-ad1cf7c99e4c">

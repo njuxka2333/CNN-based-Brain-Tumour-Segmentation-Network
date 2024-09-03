@@ -1,5 +1,7 @@
-<img width="534" alt="image" src="https://github.com/user-attachments/assets/58c6c612-17d7-42f7-a5f7-aa2f73a1d53c"># CNN-based-Brain-Tumour-Segmentation-Network
+# CNN-based-Brain-Tumour-Segmentation-Network
 Imperial  College Data Science Summer School
+<img width="534" alt="image" src="https://github.com/user-attachments/assets/58c6c612-17d7-42f7-a5f7-aa2f73a1d53c">
+
 ## Enhances the traditional Unet Model
 - Batch normalization after convolution
 - Dropout after batch normalization

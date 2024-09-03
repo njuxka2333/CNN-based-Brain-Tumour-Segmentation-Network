@@ -7,9 +7,9 @@ Imperial  College Data Science Summer School
 <img width="526" alt="image" src="https://github.com/user-attachments/assets/5aeae29b-fbad-4c35-8264-da9d3385484d">
 
 ## Examples
-<img width="460" alt="image" src="https://github.com/user-attachments/assets/ffbf7443-8c74-464a-b02f-117ba927976a">
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/ffbf7443-8c74-464a-b02f-117ba927976a">
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/2047a313-ea5d-4410-b159-ad1cf7c99e4c">
-<img width="460" alt="image" src="https://github.com/user-attachments/assets/5a9c7b8b-2eb7-483c-9d5b-0e02c5751689">
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/5a9c7b8b-2eb7-483c-9d5b-0e02c5751689">
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/7c1ff5ff-1bab-4a13-afd8-d36067a5981f">
 
 ## Dataset
